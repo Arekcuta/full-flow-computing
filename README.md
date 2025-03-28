@@ -35,7 +35,7 @@ This architecture is designed to operate like a closed water system: logic flows
 
 ## Diagram
 
-![Diagram](diagram.png)  
+![Diagram](FullFlowComputingDiagram.png)  
 *A simplified sketch of the Full Flow model. Energy and bits loop cleanly from source, through logic, and back.*
 
 ---
