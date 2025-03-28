@@ -64,6 +64,6 @@ This work is provided *as is*, without warranty of any kind, express or implied.
 ## Contact
 
 **Tucker Hansen**  
-GitHub: [@Arekcuta](https://github.com/tuckjhansen)  
-Project Repo: [Full Flow Computing](https://github.com/tuckjhansen/full-flow-computing)
+GitHub: [@Arekcuta](https://github.com/Arekcuta)  
+Project Repo: [Full Flow Computing](https://github.com/Arekcuta/full-flow-computing)
 
