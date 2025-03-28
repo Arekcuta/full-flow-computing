@@ -52,8 +52,8 @@ You are free to build upon it, improve it, test it, or use it for research. Plea
 
 ## License
 
-**Creative Commons Attribution 4.0 (CC BY 4.0)**  
-You may use, share, and build on this concept, even commercially, as long as you credit Tucker Hansen.
+This work is licensed under a Creative Commons Attribution 4.0 International License.
+You may share, adapt, or build on this work, even commercially, as long as you credit Tucker Hansen. No warranties are provided.
 
 ---
 
