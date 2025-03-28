@@ -42,7 +42,7 @@ This architecture is designed to operate like a closed water system: logic flows
 
 ## Attribution & Notes
 
-This concept was independently created by **Tucker Hansen**, in March 2025.
+This concept was independently created by **Tucker Hansen**, age 15, in March 2025.
 
 > “I haven’t done a full academic search on whether this exact model exists. If it has, I’d love to know. This is simply how I independently arrived at the concept.”
 
@@ -52,13 +52,18 @@ You are free to build upon it, improve it, test it, or use it for research. Plea
 
 ## License
 
-This work is licensed under a Creative Commons Attribution 4.0 International License.
-You may share, adapt, or build on this work, even commercially, as long as you credit Tucker Hansen. No warranties are provided.
+**Creative Commons Attribution 4.0 International (CC BY 4.0)**  
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+You may share, adapt, or build on this work, even commercially, as long as you credit Tucker Hansen.
+
+**Disclaimer:**  
+This work is provided *as is*, without warranty of any kind, express or implied. Use at your own risk.
 
 ---
 
 ## Contact
 
 **Tucker Hansen**  
-GitHub: [@Arekcuta](https://github.com/Arekcuta)  
-Project Repo: [Full Flow Computing](https://github.com/Arekcuta/reversible-dc-computing-loop)
+GitHub: [@Arekcuta](https://github.com/tuckjhansen)  
+Project Repo: [Full Flow Computing](https://github.com/tuckjhansen/full-flow-computing)
+
