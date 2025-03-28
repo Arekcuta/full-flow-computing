@@ -42,7 +42,7 @@ This architecture is designed to operate like a closed water system: logic flows
 
 ## Attribution & Notes
 
-This concept was independently created by **Tucker Hansen**, age 15, in March 2025.
+This concept was independently created by **Tucker Hansen**, in March 2025.
 
 > “I haven’t done a full academic search on whether this exact model exists. If it has, I’d love to know. This is simply how I independently arrived at the concept.”
 
